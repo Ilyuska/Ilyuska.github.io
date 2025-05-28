@@ -1,0 +1,1 @@
+Стек: ReactJS, TailwindCSS, axios
